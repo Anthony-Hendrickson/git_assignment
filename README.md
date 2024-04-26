@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-# Git Assignment - <Your GitHub Username>
-
-
-a. What is an issue?
-
-_an issue in github is a way to communicate with collaborators, keep track of ideas, create new tasks or track bugs...it's whatever you want it to be it seems. In general it is kind of like a message board that can be used flexibly._
-
-b. What is a pull request?
-
-_A pull request is when a user makes modifications to a version of a file in a branch and asks for it to be merged into another branch, typically into the main branch._
 
 # Git Assignment - <Anthony-Hendrickson>
 
