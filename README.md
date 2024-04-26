@@ -1,6 +1,7 @@
 # Git Assignment - <Anthony-Hendrickson>
 
 a. What is an issue?
+
 _an issue in github is a way to communicate with collaborators, keep track of ideas, create new tasks or track bugs...it's whatever you want it to be it seems. In general it is kind of like a message board that can be used flexibly._
 
 b. What is a pull request?
@@ -40,4 +41,5 @@ g. What is the main branch?
 _the main branch is meant to contain the stable, peer reviewed and approved code. Best practices dictate that code is added to the main branch through creating pull requests and merging pull requests from secondary branches._
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+
 _sometimes maybe for creating or making a modest change to the readme file where you have no collaborators maybe but in general no. That's a pretty hacky way to use github you might as well skip the hassle and just keep a file on your desktop._
