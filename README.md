@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git Assignment - <Your GitHub Username>
 
 
@@ -55,3 +56,6 @@ h. Besides our initial commit if it is a new repository, should we directly push
 
 _sometimes maybe for creating or making a modest change to the readme file where you have no collaborators maybe but in general no. That's a pretty hacky way to use github you might as well skip the hassle and just keep a file on your desktop._
 
+=======
+# Git Assignment - <Anthony-Hendrickson>
+>>>>>>> 1d063151cdada9c2e045b50fa5087743ccd3f49b
